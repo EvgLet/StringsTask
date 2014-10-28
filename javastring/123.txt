@@ -1,0 +1,15 @@
+Probably the most important step forward in objectoriented design is the
+design patterns movement chronicled in Design Patterns by Gamma
+Helm Johnson Vlissides AddisonWesley 1995 That book shows 23
+different solutions to particular classes of problems In this book the
+basic concepts of design patterns will be introduced along with examples
+This should whet your appetite to read Design Patterns by Gamma
+a source of what has now become an essential almost mandatory
+vocabulary for OOP programmers
+The latter part of this book contains an example of the design evolution
+process starting with an initial solution and moving through the logic
+and process of evolving the solution to more appropriate designs The
+program shown a trash sorting simulation has evolved over time and
+you can look at that evolution as a prototype for the way your own
+design can start as an adequate solution to a particular problem and
+evolve into a flexible approach to a class of problems
